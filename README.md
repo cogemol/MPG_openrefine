@@ -2,10 +2,12 @@
 
 *Entstanden nach dem Library Carpentry Kurs am 26. und 27. Januar 2023*
 
-Verlinkung von Hilfeseiten  
-Darstellung von Projektideen und deren Umsetzung  
+Inhalte:  
+- Verlinkung von Hilfeseiten 
+- Darstellung von Projektideen und 
+deren Umsetzung
 
-Beitragende:  
+*Beitragende:*  
 - cogemol
 
 
