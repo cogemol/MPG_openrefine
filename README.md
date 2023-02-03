@@ -8,7 +8,7 @@ Inhalte:
 deren Umsetzung
 
 *Beitragende:*  
-- cogemol
+- cogemol (Cora Molloy, MPIfG)
 
 
 
