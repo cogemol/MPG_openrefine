@@ -1,0 +1,20 @@
+Hallo zusammen. 
+Ich habe mich an einem openRefine-Projekt versucht und eine riesige Tabelle mit ca. 100 000 Einträgen (alles in einer Spalte)
+etwas übersichtlicher gestaltet. 
+Hier ist das Projekt: http://127.0.0.1:3333/project?project=2390083722556&ui=%7B%22facets%22%3A%5B%5D%7D 
+Ich hoffe, Ihr könnt es öffnen.
+
+--> Die Tabelle stellt einen Katalogdatenexport aus Libero dar, aus diesem Export müssen bestimmte Felder in Koha-Einträge 
+übertragen werden. In der jetzigen Form enthält die Tabelle nur noch die ehemaligen Liberofeldnummern 100 (Autor*in), 331 (Titel) 
+und 711 (dazugehöriger Sprachcode).
+
+Alle restlichen Felder habe ich mithilfe von openRefin schon rausgenommen. Übrig geblieben sind "Datensatzpäckchen", getrennt durch "### #", nach jeder 
+dieser Abtrennungszeilen beginnt ein neuer Datensatz.
+Mein Ziel: nur die Datensätze in der Tabelle behalten, bei denen ein Sprachcode vorliegt
+--> nur die Abschnitte behalten, in denen 100, 331 und 771 direkt aufeinander folgen. 
+
+Abschnitte, die nur aus 100 und 331 oder nur aus 331 bestehen, sollen gelöscht werden.
+Ich kenne einige Möglichkeiten, columns zu bearbeiten, aber rows nach bestimmten Kriterien zusammenfassen, das habe ich noch nicht hingekriegt.
+
+Vielleicht habt Ihr eine Idee? :-)
+Liebe Grüße, Josephine
