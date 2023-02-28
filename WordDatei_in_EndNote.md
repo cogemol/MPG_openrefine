@@ -1,0 +1,1 @@
+# Es kommt manchmal vor, dass Nutzer ihre Literaturangaben in Wordlisten haben. Vielleicht kann man mit OpenRefine die Struktur einfacher anpassen, damit die Datei gut in EndNote eingelesen werden kann.
