@@ -9,6 +9,7 @@ deren Umsetzung
 
 *Beitragende:*  
 - cogemol (Cora Molloy, MPIfG)
-- schneider949
-
-
+- schneider949 (Sabine Schneider, MPI Biochemistry)
+- stoffelx (Christoph Hümmer, MPDL)
+- SabrinaKi (Sabrina Kiehl, MPIS, Stuttgart)
+- JosephineFinckh2604 (EVA)
