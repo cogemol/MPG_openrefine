@@ -16,7 +16,7 @@ Die gewünschten Tabellen enthalten:
     - erstellt für die Arbeit mit Titeldaten aus dem K10plus, bei lokaler Katalogisierung in Aleph kommen möglicherweise weitere MAB-Felder vor und das Skript muss angepasst werden 
 
 #### JSON-History (als Vorlage)
-
+```
 [
   {
     "op": "core/key-value-columnize",
@@ -341,3 +341,4 @@ Die gewünschten Tabellen enthalten:
     "description": "Join multi-valued cells in column 564-1"
   }
 ]
+```
